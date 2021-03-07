@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Exo';
+    src: url('../fonts/exo/Exo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Calibri';
+    src: url('../fonts/calibri/Calibri Regular.ttf') format('truetype');
+}
+
+.navbar {
+    margin-top:15px;
+}
+
+header h1 {
+    font-family: 'Exo', sans-serif;
+    font-size: 36px;
+}
+
+p, address {
+    font-family: 'Calibri', sans-serif;
+}
